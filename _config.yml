@@ -1,0 +1,68 @@
+name: Jason Heise.graphcool.sexy
+analytics: {}
+github: true
+description: Backend
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: Jason Scott Heise
+  url: jasonscottheise.sexy
+  email: jasonscottheise@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: <article><h1>zoehoche</h1></article>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      title: zoehoche
+      isBasedOnUrl: 'http://jasonheise@graphcool.com'
+      publisher:
+        favicon: 'https://static.parastorage.com/client/pfavico.ico'
+        url: 'https://www.graphcool.com'
+        name: zoehoche
+        domain: graphcool.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: zoehoche
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.269067807123065
+color:
+  lightness: 0.9527673174161464
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.30332713667303324
+  brandStrength: 0.22667874488979578
+  rhythmicContrast: 0.017311467323452227
+content_rating:
+  adult: false
+typography_spectrum: 0.3819381825160235
+opengraph: {}
+title: Jason Heise.graphcool.sexy
