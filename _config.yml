@@ -67,5 +67,6 @@ color:
 content_rating:
   adult: false
 typography_spectrum: 0.3819381825160235
-opengraph: {}
+opengraph:
+  type: '0'
 title: Jason Heise.graphcool.sexy
