@@ -1,5 +1,6 @@
 name: Jason Heise.graphcool.sexy
-analytics: {}
+analytics:
+  google: analytics
 github: true
 description: Backend
 colors:
