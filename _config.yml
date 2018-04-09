@@ -2,6 +2,7 @@ name: Jason Heise.graphcool.sexy
 analytics:
   facebook: '0'
   google: analytics
+  twitter: 'http://paulwalker.sexy'
 github: true
 description: Backend
 colors:
